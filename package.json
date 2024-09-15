@@ -1,0 +1,16 @@
+{
+  "name": "zad0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node time.js"
+  },
+  "author": "Sivyi.D.E",
+  "license": "ISC",
+"dependencies": {
+    "luxon": "^3.5.0"
+  },
+  "type": "module"
+}
